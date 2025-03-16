@@ -172,5 +172,4 @@ This application demonstrates:
    - Check your internet connection
    - The app will continue to function without icons and will display text descriptions instead
 
-For additional help, please submit an issue on the project's GitHub page or contact the developer.
-
+**For additional help, please submit an issue on the project's GitHub page or contact the developer.**
