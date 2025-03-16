@@ -1,0 +1,30 @@
+# Environment variables - contains sensitive API keys
+.env
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Local configuration
+instance/
+.webassets-cache
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.virtualenv/
+virtualenv/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+
