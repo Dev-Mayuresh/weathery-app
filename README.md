@@ -172,8 +172,4 @@ This application demonstrates:
    - Check your internet connection
    - The app will continue to function without icons and will display text descriptions instead
 
-For additional help, please submit an issue on the project's GitHub page or contact the developer.
-=======
-# weathery-app
-A simple GUI based python weather app using tkinter
->>>>>>> 133fe222521b3cdd00bfd044fe879691c1346777
+**For additional help, please submit an issue on the project's GitHub page or contact the developer.**
