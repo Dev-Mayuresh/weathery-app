@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Weather App
 
 A Python application that displays current weather information for cities around the world using the WeatherAPI.com API.
